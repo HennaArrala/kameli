@@ -17,7 +17,7 @@ public class MySpringBean {
     @Value("${greeting}")
     private String say;
 
-    // Luokan ainoa metodi saySomething, palauttaa srtingin say arvon
+    // Luokan ainoa metodi, saySomething, palauttaa srtingin say arvon
     public String saySomething() {
         return say;
     }

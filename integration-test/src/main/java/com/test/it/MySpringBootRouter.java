@@ -36,7 +36,7 @@ public class MySpringBootRouter extends RouteBuilder {
             // sisältöä beanin avulla. Bean sijaisee Luokassa MySpringBean Huomaa @Component annotaatio. Se on hieman
             // erilainen tämän luokan @Componenttiin.
             //
-            // Tässä siis kutsutaan beanin myBean metordia saySomething. myBean on hieman harhaanjohtava, koska se
+            // Tässä siis kutsutaan beanin myBean metodia saySomething. myBean on hieman harhaanjohtava, koska se
             // sijaitsee MySpringBean luokassa. Sille asetetaan siellä nimi myBean.
             .transform().method("myBean", "saySomething")
 
