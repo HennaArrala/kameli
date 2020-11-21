@@ -12,9 +12,12 @@ import org.springframework.stereotype.Component;
 @Component("myBean")
 public class MySpringBean {
 
+    // Tällä tavalla tuodaan application.properties-tiedostossa olevia propsuja beaniin.
+    // greeting-prosun sisältämä informaatio asetetaan String-muuttujaan nimeltä say.
     @Value("${greeting}")
     private String say;
 
+    // Luokan ainoa metodi saySomething, palauttaa srtingin say arvon
     public String saySomething() {
         return say;
     }

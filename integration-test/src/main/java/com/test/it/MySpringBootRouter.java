@@ -35,6 +35,9 @@ public class MySpringBootRouter extends RouteBuilder {
             // Kun route on startattu timerilla, sille pitää saada tavaraa. Tässä tapauksessa routelle tulee
             // sisältöä beanin avulla. Bean sijaisee Luokassa MySpringBean Huomaa @Component annotaatio. Se on hieman
             // erilainen tämän luokan @Componenttiin.
+            //
+            // Tässä siis kutsutaan beanin myBean metordia saySomething. myBean on hieman harhaanjohtava, koska se
+            // sijaitsee MySpringBean luokassa. Sille asetetaan siellä nimi myBean.
             .transform().method("myBean", "saySomething")
 
             // Tässä kohtaa routella olevaa bodia käpistellään. Routen sisässä kulkevaa tietoa kutsutaan bodyksi.
