@@ -43,7 +43,8 @@ public class MySpringBootRouter extends RouteBuilder {
             // Tässä kohtaa routella olevaa bodia käpistellään. Routen sisässä kulkevaa tietoa kutsutaan bodyksi.
             // Body voidaan aina kaivaa esiin "komennolla" ${body}. Tässä kohta sisältöä filtteröidään sen mukaan
             // sisältääkö se sanan foo. Jos foo löytyy bodysta, niin lokiteaan foo + body. Filter pitää aina lopettaa
-            // .end-komennolla. Jos sisältö ei pidä sisällään foota, niin siinä tapauksessa body tulostetaan lokille.
+            // .end-komennolla. Jos sisältö ei pidä sisällään foota, niin siinä tapauksessa body tulostetaan lokille
+            // ilman foota :D
             .filter(simple("${body} contains 'foo'"))
                 .to("log:foo")
             .end()
