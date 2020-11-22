@@ -1,3 +1,2 @@
-# Kamelijuttuja
+# Showreel for Camel
 
-## Mitä pitää tietää
