@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c187733d-de7b-4498-a482-beeef6479a58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kbeNXS4TjMOrRPvUjFiIoAInpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c187733d-de7b-4498-a482-beeef6479a58" name="Default Changelist" comment="" />
+      <created>1605973679891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605973679891</updated>
+    </task>
+    <task id="LOCAL-00001" summary="chore: modify pom.xml">
+      <created>1605975346115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605975346115</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: add needed dependencies to pom.xml">
+      <created>1605975992954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605975992954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: save first working version">
+      <created>1605985281531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605985281531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: stylize and comment code">
+      <created>1606057754656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606057754656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="chore: modify pom.xml" />
+    <MESSAGE value="chore: add needed dependencies to pom.xml" />
+    <MESSAGE value="chore: save first working version" />
+    <MESSAGE value="chore: stylize and comment code" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: stylize and comment code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="244" width="380" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1605982339891">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="768" y="244" width="380" height="628" key="#com.intellij.ide.util.MemberChooser/0.31.1920.1049@0.31.1920.1049" timestamp="1605982339891" />
+    <state x="434" y="117" width="1047" height="881" key="CommitChangelistDialog2" timestamp="1606057754593">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="434" y="117" width="1047" height="881" key="CommitChangelistDialog2/0.31.1920.1049@0.31.1920.1049" timestamp="1606057754593" />
+    <state x="555" y="293" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1606057771212">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="555" y="293" width="806" height="530" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1606057771212" />
+  </component>
+</project>
